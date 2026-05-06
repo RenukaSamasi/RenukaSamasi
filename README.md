@@ -17,7 +17,7 @@
 <p >
 
 <a href="https://linkedin.com/in/renukasamasi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish maulekhi" height="30" width="40" /></a>
-<a href="[https://instagram.com/me_mayaa](https://www.instagram.com/_me_mayaa_/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ashuo12" height="30" width="40" /></a>
+<a href="https://instagram.com/me_mayaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ashuo12" height="30" width="40" /></a>
 
 </p>
 
