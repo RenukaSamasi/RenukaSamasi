@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Marzer Technologies Pvt Ltd  **
 
-- 🌱 I’m currently learning ** Jira **
+- 🌱 I’m currently learning ** Selenium Java **
 
-- 🤝 I’m looking for help with **Jira, Git**
+- 🤝 I’m looking for help with **Git**
 
 - 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman, Jira, Git, SDLC, STLC, Regression Testing**
 
