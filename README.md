@@ -3,7 +3,7 @@
 <img align="right" alt="anime coding girl" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
 
-- 🔭 I’m currently working on **codeTikki Organization **
+- 🔭 I’m currently working on **Marzer Technologies Pvt Ltd  **
 
 - 🌱 I’m currently learning ** Jira **
 
