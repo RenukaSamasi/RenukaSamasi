@@ -3,8 +3,8 @@
 <img align="right" alt="anime coding girl" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
 
-- 
-Passionate Software Test Engineer with 2.3+ years of experience in ensuring software quality through Manual Testing and basic Automation Testing. Experienced in validating web applications across Banking and Insurance domains with a strong focus on delivering reliable, defect-free products.
+
+I am a Software Test Engineer with 2+ years of experience in delivering high-quality software solutions across Banking and Insurance domains. My expertise lies in identifying critical defects, validating business requirements, and ensuring seamless user experiences through comprehensive testing practices.
 
 ### 💼 Professional Expertise
 ✔ Functional Testing  
